@@ -3,6 +3,7 @@
 ## Профиль
 
 Frontend-разработчик (Vue.js)
+
 ![image](https://github.com/user-attachments/assets/2c805002-5aee-45b4-807d-5eaf50d18595)
 
 ## Скилы
